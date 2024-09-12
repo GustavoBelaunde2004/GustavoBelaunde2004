@@ -4,9 +4,8 @@ I'm Gustavo Belaunde, a Computer Science major at Trinity University, passionate
 
 
 - 🌱 I’m currently learning about **artificial intelligence** and exploring **machine learning**.
-<!-- 🔭 I’m working on [Voicebot Project](https://github.com/your-username/voicebot_wpp), a WhatsApp chatbot using voice recognition and AI.-->
 - 💬 Ask me about **Python, Java, full-stack development** or anything tech-related!
-- 📫 How to reach me: [gbelaunderojas@gmail.com](mailto:your.email@example.com)
+- 📫 How to reach me: [gbelaunderojas@gmail.com](mailto:gbelaunderojas@gmail.com)
 
 Feel free to check out my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobelaunde/)!
 
