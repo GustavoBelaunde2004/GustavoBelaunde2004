@@ -4,6 +4,7 @@ I'm Gustavo Belaunde, a Computer Science major at Trinity University, passionate
 
 
 - 🌱 I’m currently learning about **artificial intelligence** and exploring **machine learning**.
+- 👯 I’m looking for internships for the summer of 2025 and am open to collaborating on any type of project!
 - 📫 How to reach me: [gbelaunderojas@gmail.com](mailto:gbelaunderojas@gmail.com)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobelaunde/)!
