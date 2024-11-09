@@ -12,17 +12,17 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 
 ## 🛠️ Technologies & Tools  
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi) 
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure) 
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 
 
 ---
