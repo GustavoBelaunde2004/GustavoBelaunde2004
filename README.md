@@ -20,6 +20,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
+
 
 ---
 
