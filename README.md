@@ -1,35 +1,32 @@
 ## Hi there 👋
 
-I'm Gustavo Belaunde, a Computer Science major at Trinity University, passionate about software development and AI-driven solutions.
+I'm Gustavo Belaunde, a **Computer Science major** at Trinity University with a passion for creating **AI-driven solutions** and **scalable software applications**. I thrive on building impactful projects and collaborating with teams to solve real-world problems.
 
-
-- 🌱 I’m currently learning about **artificial intelligence** and exploring **machine learning**.
-- 👯 I’m looking for internships for the summer of 2025 and am open to collaborating on any type of project!
-- 📫 How to reach me: [gbelaunderojas@gmail.com](mailto:gbelaunderojas@gmail.com)
+- 🌱 I’m currently diving deeper into **artificial intelligence**, **machine learning**, and **full-stack development**.  
+- 🔭 I’m working on a **volleyball match predictor app** that uses machine learning to generate accurate match outcomes.  
+- 👯 I’m looking for **Summer 2025 internships** and am open to **collaborating on innovative projects**!  
+- ⚡ Fun fact: I implemented **voice recognition** in a chatbot to enhance accessibility for banking customers during my internship.  
+- 📫 Reach me at: [gbelaunderojas@gmail.com](mailto:gbelaunderojas@gmail.com)  
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobelaunde/)!
 
-## 🛠️ Technologies & Tools
+---
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+## 🛠️ Technologies & Tools  
 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)  
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
 
+---
 
-<!--
-**GustavoBelaunde2004/GustavoBelaunde2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats  
 
-Here are some ideas to get you started:
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBelaunde2004&show_icons=true&theme=dark)](https://github.com/GustavoBelaunde2004)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
