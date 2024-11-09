@@ -3,9 +3,7 @@
 I'm Gustavo Belaunde, a **Computer Science major** at Trinity University with a passion for creating **AI-driven solutions** and **scalable software applications**. I thrive on building impactful projects and collaborating with teams to solve real-world problems.
 
 - 🌱 I’m currently diving deeper into **artificial intelligence**, **machine learning**, and **full-stack development**.  
-- 🔭 I’m working on a **volleyball match predictor app** that uses machine learning to generate accurate match outcomes.  
 - 👯 I’m looking for **Summer 2025 internships** and am open to **collaborating on innovative projects**!  
-- ⚡ Fun fact: I implemented **voice recognition** in a chatbot to enhance accessibility for banking customers during my internship.  
 - 📫 Reach me at: [gbelaunderojas@gmail.com](mailto:gbelaunderojas@gmail.com)  
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobelaunde/)!
@@ -25,8 +23,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 
 ---
 
-## 📊 GitHub Stats  
-
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBelaunde2004&show_icons=true&theme=dark)](https://github.com/GustavoBelaunde2004)
-
----
