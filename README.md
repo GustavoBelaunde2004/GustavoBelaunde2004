@@ -29,7 +29,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 
 ## 📌 Pinned Projects
 
-### **1. **Volleyball Match Predictor Project**
+### 1. **Volleyball Match Predictor Project**
 An AI-driven solution to predict volleyball match outcomes and stats, is divided into two main repositories:
 
 - **[Backend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-backend)**: Handles all ML models, data processing, and API integrations.
