@@ -30,7 +30,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 ## 📌 Pinned Projects
 
 ### **1. Volleyball Match Predictor Project**
-An AI-driven solution to predict volleyball match outcomes and stats, is divided into two main repositories:
+An AI-driven solution to predict volleyball match outcomes and stats, divided into two main repositories:
 
 - **[Backend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-backend)**: Handles all ML models, data processing, and API integrations.
 - **[Frontend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-frontend)**: Provides a seamless and professional mobile app experience using Flutter.
@@ -38,8 +38,12 @@ An AI-driven solution to predict volleyball match outcomes and stats, is divided
 ### **2. Voice Banking Chatbot**
 A prototype chatbot designed for **financial institutions** that integrates **Azure Speech Recognition** for seamless voice and text interactions. Enhances customer experience with advanced **AI tools** and real-world testing. [Learn More](https://github.com/GustavoBelaunde2004/AI-Chat-Bot)
 
-### **3. Personalized Health Tracker**
-Tracks and analyzes user health data, offering real-time, personalized recommendations using **machine learning**. Designed as a scalable, user-focused application with **Node.js** and **Python**. [Learn More](https://github.com/your-repo-url)
+### **3. Personalized Stress Predictor**
+Analyzes user health data, offering real-time, personalized recommendations using **machine learning** to lower stress levels. Designed as a scalable, user-focused application with **Node.js** and **Python**. [Learn More](https://github.com/your-repo-url)
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
 
 ---
 
