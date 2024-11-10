@@ -1,4 +1,6 @@
-## Gustavo Belaunde 
+# Gustavo Belaunde 
+
+---
 
 Hi there, I am a **Computer Science major** at Trinity University with a passion for creating **AI-driven solutions** and **scalable software applications**. I thrive on building impactful projects and collaborating with teams to solve real-world problems.
 
