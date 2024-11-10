@@ -43,12 +43,6 @@ Tracks and analyzes user health data, offering real-time, personalized recommend
 
 ---
 
-
-## 📊 GitHub Stats
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## 🚀 Future Goals
 - Build more open-source tools to help developers.
 - Contribute to cutting-edge AI projects in healthcare or finance.
