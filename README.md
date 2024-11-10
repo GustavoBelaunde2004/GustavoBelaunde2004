@@ -43,10 +43,6 @@ Analyzes user health data, offering real-time, personalized recommendations usin
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
-
----
-
 ## 🚀 Future Goals
 - Build more open-source tools to help developers.
 - Contribute to cutting-edge AI projects in healthcare or finance.
