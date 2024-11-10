@@ -29,16 +29,16 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 
 ## 📌 Pinned Projects
 
-### 1. **Volleyball Match Predictor Project**
+### **1. Volleyball Match Predictor Project**
 An AI-driven solution to predict volleyball match outcomes and stats, is divided into two main repositories:
 
 - **[Backend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-backend)**: Handles all ML models, data processing, and API integrations.
 - **[Frontend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-frontend)**: Provides a seamless and professional mobile app experience using Flutter.
 
-### **2. [Voice Banking Chatbot](https://github.com/GustavoBelaunde2004/AI-Chat-Bot)**
+### **2. Voice Banking Chatbot**
 A prototype chatbot designed for **financial institutions** that integrates **Azure Speech Recognition** for seamless voice and text interactions. Enhances customer experience with advanced **AI tools** and real-world testing. [Learn More](https://github.com/GustavoBelaunde2004/AI-Chat-Bot)
 
-### **3. [Personalized Health Tracker](https://github.com/your-repo-url)**
+### **3. Personalized Health Tracker**
 Tracks and analyzes user health data, offering real-time, personalized recommendations using **machine learning**. Designed as a scalable, user-focused application with **Node.js** and **Python**. [Learn More](https://github.com/your-repo-url)
 
 ---
