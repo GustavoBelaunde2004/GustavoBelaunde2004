@@ -10,19 +10,29 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 
 ---
 
-## 🛠️ Technologies & Tools  
+# 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi) 
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure) 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+### Languages:
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+### Frameworks/Libraries:
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Developer Tools:
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+### Machine Learning:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 
 ---
