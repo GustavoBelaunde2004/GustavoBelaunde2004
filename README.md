@@ -45,10 +45,10 @@ An AI-driven solution to predict volleyball match outcomes and stats, divided in
 - **[Backend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-backend)**: Handles all ML models, data processing, and API integrations.
 - **[Frontend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-frontend)**: Provides a seamless and professional mobile app experience using Flutter.
 
-### **2. Voice Banking Chatbot**
+### **2. AI Chatbot**
 A prototype chatbot designed for **financial institutions** that integrates **Azure Speech Recognition** for seamless voice and text interactions. Enhances customer experience with advanced **AI tools** and real-world testing. [Learn More](https://github.com/GustavoBelaunde2004/AI-Chat-Bot)
 
-### **3. Personalized Stress Predictor**
+### **3. Personalize Stress Predictor**
 Analyzes user health data, offering real-time, personalized recommendations using **machine learning** to lower stress levels. Designed as a scalable, user-focused application with **Node.js** and **Python**. [Learn More](https://github.com/GustavoBelaunde2004/stress-predictor-backend)
 
 ---
