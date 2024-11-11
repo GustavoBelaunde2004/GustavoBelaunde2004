@@ -53,12 +53,5 @@ Analyzes user health data, offering real-time, personalized recommendations usin
 
 ---
 
-## 🚀 Future Goals
-- Build more open-source tools to help developers.
-- Contribute to cutting-edge AI projects in healthcare or finance.
-- Continue exploring the intersection of AI and user-centric design.
-
----
-
 Thank you for visiting my GitHub profile! I’m always open to collaborations and learning opportunities.
 
