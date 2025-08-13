@@ -45,11 +45,11 @@ An AI-driven solution to predict volleyball match outcomes and stats, divided in
 - **[Backend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-backend)**: Handles all ML models, data processing, and API integrations.
 - **[Frontend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-frontend)**: Provides a seamless and professional mobile app experience using Flutter.
 
-### **2. AI Chatbot**
-A prototype chatbot designed for **financial institutions** that integrates **Azure Speech Recognition** for seamless voice and text interactions. Enhances customer experience with advanced **AI tools** and real-world testing. [Learn More](https://github.com/GustavoBelaunde2004/AI-Chat-Bot)
+### **2. BuyHive**
+Centralizes shopping carts from multiple websites into one unified interface, enabling users to create custom folders and store items across platforms. Built with Python and Flask, powered by MongoDB, and integrated with Auth0 for authentication, it supports scalable backend operations and future machine learning enhancements for URL classification and product detection.[Learn More](https://github.com/GustavoBelaunde2004/BuyHive-backend)
 
-### **3. Personalize Stress Predictor**
-Analyzes user health data, offering real-time, personalized recommendations using **machine learning** to lower stress levels. Designed as a scalable, user-focused application with **Node.js** and **Python**. [Learn More](https://github.com/GustavoBelaunde2004/stress-predictor-backend)
+### **3. AI Chatbot**
+A prototype chatbot designed for **financial institutions** that integrates **Azure Speech Recognition** for seamless voice and text interactions. Enhances customer experience with advanced **AI tools** and real-world testing. [Learn More](https://github.com/GustavoBelaunde2004/AI-Chat-Bot)
 
 ---
 
