@@ -50,7 +50,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 Centralizes shopping carts from multiple websites into one unified interface, enabling users to create custom folders and store items across platforms.  
 - **Backend**: FastAPI + MongoDB (scalable product data storage, API development).  
 - **Frontend**: React with folder organization and user-friendly UI.  
-🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/BuyHive-backend)
+🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/BuyHive-backend)\
 🔗 [Frontend Repository (teammate’s repo)](https://github.com/johnstoklas/buy-hive)
 
 ---
@@ -66,8 +66,8 @@ A finance-focused web app that applies **Modern Portfolio Theory** to generate o
 ### **3. Revel – Event Organizer App**
 A social event platform for students with **real-time RSVP updates** and group-based event filtering.  
 - **Backend**: FastAPI + MongoDB with Auth0 authentication.  
-- **Frontend**: React Native app
-🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/revel-backend)
+- **Frontend**: React Native app.\
+🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/revel-backend)\
 🔗 [Frontend Repository (teammate’s repo)](https://github.com/thchann/revel)
 
 ---
@@ -83,7 +83,7 @@ A Retrieval-Augmented Generation (RAG) pipeline for answering questions from cou
 An AI-driven project predicting volleyball match outcomes and statistics.  
 - **Backend**: Python models for match winner, set outcomes, and score predictions.  
 - **Frontend**: Flutter mobile app with clean, user-friendly interface.  
-🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-backend)  
+🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-backend)\
 🔗 [Frontend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-frontend)
 
 ---
