@@ -10,6 +10,11 @@ I am a third-year Computer Science major at Trinity University focusing on AI sy
 
 ---
 
+### 💼 Portfolio
+Check out my [coding portfolio!](https://gustavobelaunde.com/)
+
+---
+
 Reach me at: [gbelaunderojas@gmail.com](mailto:gbelaunderojas@gmail.com)  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobelaunde/)!
 
