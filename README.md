@@ -56,7 +56,7 @@ Centralizes shopping carts from multiple websites into one unified interface, en
 - **Backend**: FastAPI + MongoDB (scalable product data storage, API development).  
 - **Frontend**: React with folder organization and user-friendly UI.  
 🔗 [Backend Repository](https://gitb.com/GustavoBelaunde2004/BuyHive-backend)\
-🔗 [Frontend Repository]((https://github.com/GustavoBelaunde2004/buy-hive))
+🔗 [Frontend Repository](https://github.com/GustavoBelaunde2004/buy-hive)
 
 ---
 
