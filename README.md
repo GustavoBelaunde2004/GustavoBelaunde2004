@@ -73,7 +73,7 @@ A social event platform for students with **real-time RSVP updates** and group-b
 - **Backend**: FastAPI + MongoDB with Auth0 authentication.  
 - **Frontend**: React Native app.\
 🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/revel-backend)\
-🔗 [Frontend Repository (teammate’s repo)](https://github.com/thchann/revel)
+🔗 [Frontend Repository](https://github.com/GustavoBelaunde2004/Revel)
 
 ---
 
