@@ -55,8 +55,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 Centralizes shopping carts from multiple websites into one unified interface, enabling users to create custom folders and store items across platforms.  
 - **Backend**: FastAPI + MongoDB (scalable product data storage, API development).  
 - **Frontend**: React with folder organization and user-friendly UI.  
-🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/BuyHive-backend)\
-🔗 [Frontend Repository (teammate’s repo)](https://github.com/johnstoklas/buy-hive)
+🔗 [Backend Repository](https://gitb.com/GustavoBelaunde2004/BuyHive-backend)\
+🔗 [Frontend Repository]((https://github.com/GustavoBelaunde2004/buy-hive))
 
 ---
 
