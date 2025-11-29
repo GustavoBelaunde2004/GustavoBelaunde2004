@@ -60,6 +60,8 @@ Frontend: iOS app built in Swift (digital card UI + Multipeer integration).
 Tech: Swift (iOS), Python (FastAPI), MongoDB, Motor, Pydantic.
 🔗 [View Repository](https://github.com/GustavoBelaunde2004/Lynk)
 
+---
+
 ### **2. BuyHive – Universal Shopping Cart**
 Centralizes shopping carts from multiple websites into one unified interface, enabling users to create custom folders and store items across platforms.  
 - **Backend**: FastAPI + MongoDB (scalable product data storage, API development).  
