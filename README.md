@@ -51,7 +51,16 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 
 ## 📌 Pinned Projects
 
-### **1. BuyHive – Universal Shopping Cart**
+### ** 1Lynk – Digital Business Card (RowdyHacks 2025)
+A FastAPI backend powering a digital business card iOS app that lets users create, customize, and share contact cards instantly. Ideal for hackathon MVPs and rapid prototyping of contact-sharing experiences.
+
+Backend: FastAPI + Motor (async MongoDB) with Pydantic models for validation.
+Features: User management, digital cards with links/files (Base64 storage), custom profile pictures/backgrounds, share via Multipeer Connectivity, receive metrics, and cascade deletes.
+Frontend: iOS app built in Swift (digital card UI + Multipeer integration).
+Tech: Swift (iOS), Python (FastAPI), MongoDB, Motor, Pydantic.
+🔗 [View Repository](https://github.com/GustavoBelaunde2004/Lynk)
+
+### **2. BuyHive – Universal Shopping Cart**
 Centralizes shopping carts from multiple websites into one unified interface, enabling users to create custom folders and store items across platforms.  
 - **Backend**: FastAPI + MongoDB (scalable product data storage, API development).  
 - **Frontend**: React with folder organization and user-friendly UI.  
@@ -60,7 +69,7 @@ Centralizes shopping carts from multiple websites into one unified interface, en
 
 ---
 
-### **2. OptiVest – Portfolio Optimizer**
+### **3. OptiVest – Portfolio Optimizer**
 A finance-focused web app that applies **Modern Portfolio Theory** to generate optimal investment allocations.  
 - Engineered backend with Flask + yFinance.  
 - Automated stock validation using Gemini API, reducing redundant API calls and improving efficiency.  
@@ -68,7 +77,7 @@ A finance-focused web app that applies **Modern Portfolio Theory** to generate o
 
 ---
 
-### **3. Revel – Event Organizer App**
+### **4. Revel – Event Organizer App**
 A social event platform for students with **real-time RSVP updates** and group-based event filtering.  
 - **Backend**: FastAPI + MongoDB with Auth0 authentication.  
 - **Frontend**: React Native app.\
@@ -77,7 +86,7 @@ A social event platform for students with **real-time RSVP updates** and group-b
 
 ---
 
-### **4. LLM RAG – Local Search Engine**
+### **5. LLM RAG – Local Search Engine**
 A Retrieval-Augmented Generation (RAG) pipeline for answering questions from course notes.  
 - Combines dense (FAISS) and sparse (BM25) retrieval for hybrid search.  
 🔗 [View Repository](https://github.com/GustavoBelaunde2004/llm-rag)
@@ -93,7 +102,7 @@ An AI-driven project predicting volleyball match outcomes and statistics.
 
 ---
 
-### **6. AI Chatbot (Financial Institutions)**
+### **7. AI Chatbot (Financial Institutions)**
 A prototype chatbot integrating **Azure Speech Recognition** to handle **voice + text** interactions.  
 - Enhances customer support through conversational AI.  
 - Tested with real-world banking scenarios.  
