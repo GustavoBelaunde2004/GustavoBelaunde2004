@@ -54,10 +54,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavobe
 ### **1. Lynk – Digital Business Card (RowdyHacks 2025)**
 A FastAPI backend powering a digital business card iOS app that lets users create, customize, and share contact cards instantly. Ideal for hackathon MVPs and rapid prototyping of contact-sharing experiences.
 
-Backend: FastAPI + Motor (async MongoDB) with Pydantic models for validation.
-Features: User management, digital cards with links/files (Base64 storage), custom profile pictures/backgrounds, share via Multipeer Connectivity, receive metrics, and cascade deletes.
-Frontend: iOS app built in Swift (digital card UI + Multipeer integration).
-Tech: Swift (iOS), Python (FastAPI), MongoDB, Motor, Pydantic.
+- **Backend**: FastAPI + Motor (async MongoDB) with Pydantic models for validation.
+- **Features**: User management, digital cards with links/files (Base64 storage), custom profile pictures/backgrounds, share via Multipeer Connectivity, receive metrics, and cascade deletes.
+- **Frontend**: iOS app built in Swift (digital card UI + Multipeer integration).
+- **Tech**: Swift (iOS), Python (FastAPI), MongoDB, Motor, Pydantic.\
 🔗 [View Repository](https://github.com/GustavoBelaunde2004/Lynk)
 
 ---
