@@ -71,7 +71,18 @@ Centralizes shopping carts from multiple websites into one unified interface, en
 
 ---
 
-### **3. OptiVest – Portfolio Optimizer**
+### **3. ebay-rest – Modern Python SDK for eBay REST APIs**
+A comprehensive Python SDK that simplifies integration with eBay's REST APIs, providing type-safe clients for Browse, Inventory, Orders, and Account APIs. Ideal for building e-commerce applications, inventory management systems, and marketplace integrations with minimal boilerplate.
+
+- **Backend**: Python SDK with OAuth2 authentication (Client Credentials + Authorization Code flows), centralized HTTP client with automatic error handling, and Pydantic models for type safety.
+- **Features**: OAuth2 token management with automatic refresh, Browse API (search items, get details), Inventory API (full CRUD + bulk operations), Orders API (list and retrieve seller orders), Account API (profiles, privileges, policies), pagination helpers for large result sets, and comprehensive test coverage (46+ unit tests).
+- **Architecture**: Modular client design with shared BaseClient for consistent HTTP operations, separate clients per API module, and helper utilities for OAuth flows and pagination.
+- **Tech**: Python 3.10+, Requests, Pydantic, python-dotenv, pytest, black, ruff, mypy.\
+🔗 [View Repository](https://github.com/GustavoBelaunde2004/ebay-rest)
+
+---
+
+### **4. OptiVest – Portfolio Optimizer**
 A finance-focused web app that applies **Modern Portfolio Theory** to generate optimal investment allocations.  
 - Engineered backend with Flask + yFinance.  
 - Automated stock validation using Gemini API, reducing redundant API calls and improving efficiency.  
@@ -79,7 +90,7 @@ A finance-focused web app that applies **Modern Portfolio Theory** to generate o
 
 ---
 
-### **4. Revel – Event Organizer App**
+### **5. Revel – Event Organizer App**
 A social event platform for students with **real-time RSVP updates** and group-based event filtering.  
 - **Backend**: FastAPI + MongoDB with Auth0 authentication.  
 - **Frontend**: React Native app.\
@@ -88,29 +99,10 @@ A social event platform for students with **real-time RSVP updates** and group-b
 
 ---
 
-### **5. LLM RAG – Local Search Engine**
+### **6. LLM RAG – Local Search Engine**
 A Retrieval-Augmented Generation (RAG) pipeline for answering questions from course notes.  
 - Combines dense (FAISS) and sparse (BM25) retrieval for hybrid search.  
 🔗 [View Repository](https://github.com/GustavoBelaunde2004/llm-rag)
-
----
-
-### **5. Volleyball Match Predictor**
-An AI-driven project predicting volleyball match outcomes and statistics.  
-- **Backend**: Python models for match winner, set outcomes, and score predictions.  
-- **Frontend**: Flutter mobile app with clean, user-friendly interface.  
-🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-backend)\
-🔗 [Frontend Repository](https://github.com/GustavoBelaunde2004/volleyball-predictor-frontend)
-
----
-
-### **7. AI Chatbot (Financial Institutions)**
-A prototype chatbot integrating **Azure Speech Recognition** to handle **voice + text** interactions.  
-- Enhances customer support through conversational AI.  
-- Tested with real-world banking scenarios.  
-🔗 [View Repository](https://github.com/GustavoBelaunde2004/AI-Chat-Bot)
-
----
 
 Thank you for visiting my GitHub profile! I’m always open to collaborations and learning opportunities.
 
