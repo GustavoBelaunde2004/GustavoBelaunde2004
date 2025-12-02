@@ -82,27 +82,5 @@ A comprehensive Python SDK that simplifies integration with eBay's REST APIs, pr
 
 ---
 
-### **4. OptiVest – Portfolio Optimizer**
-A finance-focused web app that applies **Modern Portfolio Theory** to generate optimal investment allocations.  
-- Engineered backend with Flask + yFinance.  
-- Automated stock validation using Gemini API, reducing redundant API calls and improving efficiency.  
-🔗 [View Repository](https://github.com/GustavoBelaunde2004/Optivest)
-
----
-
-### **5. Revel – Event Organizer App**
-A social event platform for students with **real-time RSVP updates** and group-based event filtering.  
-- **Backend**: FastAPI + MongoDB with Auth0 authentication.  
-- **Frontend**: React Native app.\
-🔗 [Backend Repository](https://github.com/GustavoBelaunde2004/revel-backend)\
-🔗 [Frontend Repository](https://github.com/GustavoBelaunde2004/Revel)
-
----
-
-### **6. LLM RAG – Local Search Engine**
-A Retrieval-Augmented Generation (RAG) pipeline for answering questions from course notes.  
-- Combines dense (FAISS) and sparse (BM25) retrieval for hybrid search.  
-🔗 [View Repository](https://github.com/GustavoBelaunde2004/llm-rag)
-
 Thank you for visiting my GitHub profile! I’m always open to collaborations and learning opportunities.
 
