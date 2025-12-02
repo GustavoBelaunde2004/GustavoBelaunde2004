@@ -78,7 +78,7 @@ A comprehensive Python SDK that simplifies integration with eBay's REST APIs, pr
 - **Features**: OAuth2 token management with automatic refresh, Browse API (search items, get details), Inventory API (full CRUD + bulk operations), Orders API (list and retrieve seller orders), Account API (profiles, privileges, policies), pagination helpers for large result sets, and comprehensive test coverage (46+ unit tests).
 - **Architecture**: Modular client design with shared BaseClient for consistent HTTP operations, separate clients per API module, and helper utilities for OAuth flows and pagination.
 - **Tech**: Python 3.10+, Requests, Pydantic, python-dotenv, pytest, black, ruff, mypy.\
-🔗 [View Repository](https://github.com/GustavoBelaunde2004/ebay-rest)
+🔗 [View Repository](https://github.com/GustavoBelaunde2004/ebay_python_sdk)
 
 ---
 
